@@ -1,0 +1,501 @@
+		Institution	Location	Academic	Employer	Citations	H	International	Score
+1	1	University of Oxford	United Kingdom	100	98.5	85.9	100	86.4	98
+2	3	University of Cambridge	United Kingdom	99.8	97.7	82.8	97.1	100	97.9
+3	2	Harvard University	United States	99.5	100	85	92.2	87.5	97.4
+4	4=	"University of California, Berkeley (UCB)"	United States	96.2	87.4	88.8	84.2	68.4	91.6
+5	6	Stanford University	United States	94.7	93.3	93.7	79.3	58.4	91.4
+6	4=	Yale University	United States	94.8	87.9	82.3	92.2	52.6	90.2
+7	10	Columbia University	United States	93.3	83.6	83.1	86.4	79.6	89.4
+8	7	New York University (NYU)	United States	94.3	81.5	85.6	90.4	64.6	89.3
+9=	11	The University of Edinburgh	United Kingdom	92.7	79.4	86.1	93.9	74.6	88.7
+9=	9	"University of California, Los Angeles (UCLA)"	United States	92.9	86.5	83.8	81.8	64.5	88.7
+11	12	UCL	United Kingdom	91.3	80.4	83.5	84.2	96.4	88.3
+12	15	National University of Singapore (NUS)	Singapore	91.7	98.6	79.7	62.1	44.6	87.6
+13=	13=	Massachusetts Institute of Technology (MIT) 	United States	87.3	94.2	94.6	76.5	61.6	87.1
+13=	13=	University of Chicago	United States	94.5	76.5	80.8	86.4	50.3	87.1
+15	8	Princeton University	United States	93.2	77.9	85.4	92.2	33.7	86.5
+16=	18	The University of Melbourne	Australia	88.5	90.9	79.2	73.4	69.6	86.2
+16=	17	University of Toronto	Canada	90.9	79	89.2	81.8	60.2	86.2
+18	16	The London School of Economics and Political Science (LSE)	United Kingdom	88	87.3	84.1	81.8	48.4	85.1
+19	19	Humboldt-Universit?t zu Berlin	Germany	94.5	72.5	72.8	73.4	53.7	84.9
+20	27=	The University of Hong Kong	Hong Kong SAR	90.3	89.5	83.1	57.1	44.4	84.8
+21	26	University of Amsterdam	Netherlands	87.3	75	95.1	84.2	75.7	84.6
+22	23	The University of Sydney	Australia	87.4	87.1	78.4	76.5	60.8	84.5
+23=	34	Sorbonne University	France	92.3	77.3	72.6	62.1	63.4	84.1
+23=	22	The University of Tokyo	Japan	91.8	87.7	74.1	57.1	32.7	84.1
+25	21	The Australian National University	Australia	87.2	83.9	78.3	76.5	60.9	83.8
+26	31=	Universit¨¦ Paris 1 Panth¨¦on-Sorbonne 	France	92	80.9	67.6	62.1	52.6	83.7
+27	30	King's College London	United Kingdom	87.5	78	78.7	79.3	72.4	83.6
+28	24=	Freie Universitaet Berlin	Germany	94.3	68	75.5	70.1	45.6	83.4
+29	29	University of Michigan-Ann Arbor	United States	86.3	74.2	85.3	88.4	67.5	83
+30	20	University of British Columbia	Canada	87.3	81.9	80.9	70.1	50.1	82.6
+31=	35	Leiden University	Netherlands	90.3	67.4	75.3	70.1	66.3	81.9
+31=	31=	University of Pennsylvania	United States	86.7	75.1	84.9	76.5	55.3	81.9
+33	24=	Universidad Nacional Aut¨®noma de M¨¦xico  (UNAM)	Mexico	91.7	79.4	60.8	57.1	37.2	81.6
+34	43	The Chinese University of Hong Kong (CUHK)	Hong Kong SAR	88	84.7	79.9	51.3	39.3	81.5
+35	41	"Nanyang Technological University, Singapore (NTU)"	Singapore	82.2	93.4	83.5	66.3	40.7	81.3
+36	27=	Cornell University	United States	84.9	79.9	87.4	79.3	35.2	81.2
+37=	33	McGill University	Canada	85.5	77.9	80.7	73.4	48.8	80.9
+37=	38	Seoul National University	South Korea	88.4	82.2	79.5	57.1	23.7	80.9
+39	65	Sapienza University of Rome	Italy	87.2	74.8	70.4	62.1	64.8	80.5
+40	49=	Ludwig-Maximilians-Universit?t M¨¹nchen	Germany	88.2	64.9	78.3	66.3	72.9	80.4
+41	45=	Durham University	United Kingdom	85.9	71.6	80	73.4	57.3	80.2
+42	49=	Monash University	Australia	81	87.5	78.6	73.4	52.7	80.1
+43=	36=	Peking University	China (Mainland)	86	87.3	86.3	35	36.9	80
+43=	47=	University of Vienna	Austria	87.7	63.8	74.3	70.1	75.9	80
+45	45=	The University of Manchester	United Kingdom	81.8	81.1	81	76.5	53	79.8
+46=	66	KU Leuven	Belgium	85.2	67.8	76.3	76.5	68.1	79.5
+46=	53=	The University of New South Wales (UNSW Sydney)	Australia	79.9	85.2	80.8	73.4	59	79.5
+46=	59=	"Trinity College Dublin, The University of Dublin"	Ireland	85.7	76.4	71.7	66.3	49.8	79.5
+49	42	University of St Andrews	United Kingdom	85.7	69.9	77.8	79.3	45	79.4
+50	36=	University of Texas at Austin	United States	82.9	71.6	83.2	79.3	50.1	78.8
+51=	40	Duke University	United States	83.4	68.2	81.8	79.3	58.7	78.7
+51=	53=	Lomonosov Moscow State University	Russia	83.4	94.6	60.7	44.2	37.7	78.7
+53	53=	Alma Mater Studiorum - University of Bologna	Italy	84.8	79.6	68.5	57.1	43.5	78.4
+54=	49=	The University of Warwick	United Kingdom	81.6	74.4	78.6	76.5	56.7	78.3
+54=	39	Universidad de Buenos Aires (UBA)	Argentina	86.6	77.4	61.4	57.1	39.8	78.3
+54=	58	University of Leeds	United Kingdom	81.3	73.9	78.2	76.5	62.9	78.3
+57	47=	Tsinghua University	China (Mainland)	81.1	88.3	95.7	44.2	26.3	78.1
+58=	67=	Complutense University of Madrid	Spain	83.3	80.7	65.4	57.1	54.5	78
+58=	67=	Kyoto University	Japan	85.8	80.6	74	44.2	29.7	78
+58=	59=	University of Helsinki	Finland	83	67.2	76.7	70.1	74.6	78
+61	62=	Waseda University	Japan	85.2	79.9	71.7	51.3	29.7	77.8
+62	130	Universit¨¦ PSL	France	80.5	71.6	77	76.5	66.1	77.4
+63=	62=	Ruprecht-Karls-Universit?t Heidelberg	Germany	85.7	64.5	75.4	57.1	58.9	77.2
+63=	72=	University of Copenhagen	Denmark	80.1	71.6	79.1	73.4	68	77.2
+65	49=	Brown University	United States	83.5	67.3	81	76.5	34.6	77.1
+66	72=	University of Glasgow	United Kingdom	81.4	67.3	77.5	79.3	51.9	76.7
+67	44	SOAS University of London 	United Kingdom	87.4	63	74.8	62.1	25	76.6
+68=	79=	The University of Auckland	New Zealand	82	79.6	79.2	51.3	32.3	76.5
+68=	57	Universidade de S?o Paulo	Brazil	82.8	76.5	66	57.1	46.5	76.5
+70=	53=	Pontificia Universidad Cat¨®lica de Chile (UC)	Chile	85.9	75.1	64.9	44.2	33.3	76.4
+70=	70	University of Southern California	United States	81.2	66	87.5	79.3	38.7	76.4
+72=	71	University of Birmingham	United Kingdom	80.5	70.9	80.3	76.5	40.2	76.3
+72=	78	University of York	United Kingdom	81.1	64	80.5	76.5	61	76.3
+74	93=	Delft University of Technology	Netherlands	78.2	74.9	77.5	62.1	72.9	76
+75	84=	National Taiwan University (NTU)	Taiwan	84.4	80.1	83	22.1	26.3	75.9
+76=	84=	City University of New York	United States	76.9	70.2	78	88.4	59.4	75.6
+76=	86=	Eberhard Karls Universit?t T¨¹bingen	Germany	84	58.7	80.6	57.1	63.4	75.6
+76=	62=	Fudan University	China (Mainland)	82.7	82.6	76.1	44.2	8.4	75.6
+76=	72=	Victoria University of Wellington	New Zealand	80.8	73.7	77.8	62.1	37.7	75.6
+80=	59=	Georgetown University	United States	81.1	68.9	78.5	81.8	17.7	75.3
+80=	86=	Universitat de Barcelona	Spain	79.5	74.6	72.3	62.1	52.5	75.3
+82=	79=	Lancaster University	United Kingdom	79.2	65	84.3	81.8	42.1	75.1
+82=	82	Queen Mary University of London	United Kingdom	79.5	69.4	79	73.4	41.8	75.1
+84=	105=	Universiti Malaya (UM)	Malaysia	79.8	79.1	76	57.1	25.5	75
+84=	100=	Utrecht University	Netherlands	79.3	64.1	80.9	76.5	54.9	75
+86=	89=	Indiana University Bloomington	United States	80.5	60	81.9	76.5	54	74.9
+86=	77	Korea University	South Korea	83.1	73.7	76.6	51.3	13.7	74.9
+86=	96=	The University of Queensland	Australia	77.7	77.3	79.6	62.1	44.4	74.9
+86=	81	University of Wisconsin-Madison	United States	79	62.4	84	79.3	55.1	74.9
+90=	112	University of Oslo	Norway	81.3	55.7	78.8	73.4	68.3	74.8
+90=	72=	Yonsei University	South Korea	84.1	76.8	74.6	44.2	1.9	74.8
+92=	113=	HSE University	Russia	77.4	85.5	62.8	51.3	51.7	74.7
+92=	113=	University College Dublin	Ireland	79.1	71.3	75.3	73.4	36.9	74.7
+94=	72=	Northwestern University	United States	77.4	68.1	83.5	76.5	46.3	74.4
+94=	110	The University of Exeter	United Kingdom	76.7	67.8	80.4	79.3	56.6	74.4
+96=	102=	Carnegie Mellon University	United States	74.7	67.8	100	70.1	64.2	74.3
+96=	116=	University of Geneva	Switzerland	80.9	61.2	76.1	66.3	57.6	74.3
+98	89=	Johns Hopkins University	United States	75.6	72.5	90.3	62.1	58.4	74.2
+99=	111	Aarhus University	Denmark	77.6	67.4	78.8	66.3	60.9	74
+99=	116=	RMIT University	Australia	77.4	81.5	74.8	51.3	35.7	74
+99=	83	Rutgers University¨CNew Brunswick	United States	77.5	56.7	84.9	90.4	60.3	74
+99=	91=	University of Bristol	United Kingdom	75.5	70.2	80.4	79.3	54.6	74
+103	124=	Politecnico di Milano	Italy	79.4	83.8	68.9	35	34.8	73.9
+104=	88	"University of California, San Diego (UCSD)"	United States	76	66.5	84.7	73.4	60.3	73.8
+104=	118=	University of Washington	United States	75.8	66.6	89.4	70.1	59.9	73.8
+106=	107=	Albert-Ludwigs-Universitaet Freiburg	Germany	80.9	54.4	81.9	66.3	63.5	73.7
+106=	93=	The University of Sheffield	United Kingdom	76	68.1	81.2	79.3	48.3	73.7
+108=	134	ETH Zurich - Swiss Federal Institute of Technology	Switzerland	74.8	80.7	83.9	51.3	48.8	73.6
+108=	132=	Stockholm University	Sweden	79.7	57.1	79.4	70.1	63	73.6
+108=	152=	Universitat Aut¨°noma de Barcelona	Spain	76.6	73.8	73.2	62.1	54.4	73.6
+111=	96=	Boston University	United States	75.5	72.3	79.8	73.4	42.7	73.4
+111=	93=	University of Zurich	Switzerland	82	58.9	80	51.3	51.9	73.4
+113	128=	Goethe-University Frankfurt am Main	Germany	78.8	58.3	77	66.3	70.4	73.2
+114	113=	Macquarie University	Australia	75.1	75.3	79	57.1	55.8	73.1
+115	118=	Saint Petersburg State University	Russia	77.6	84.8	55	44.2	41.4	73
+116=	105=	Pennsylvania State University	United States	74.8	67.6	81.5	73.4	57.4	72.9
+116=	137=	University of Nottingham	United Kingdom	71.8	71.3	81.8	79.3	70.1	72.9
+118=	107=	Ca' Foscari University of Venice 	Italy	80.8	70.1	69.9	51.3	23.7	72.8
+118=	91=	Universidad de Chile	Chile	80.3	69.9	65.8	51.3	36.8	72.8
+120=	100=	The Ohio State University	United States	74.7	63.8	83.9	76.5	61	72.7
+120=	123	Universit¨¦ de Montr¨¦al 	Canada	76.1	64	94.6	57.1	56.6	72.7
+122	118=	University of Illinois at Urbana-Champaign	United States	75.9	63.9	81.6	76.5	48	72.6
+123	104	University of Notre Dame	United States	76.9	62.7	78.2	79.3	37.5	72.4
+124=	118=	Central European University	Hungary	78.9	62.9	75.5	66.3	35.7	72.3
+124=	69	The New School	United States	83.1	63	74.3	57.1		72.3
+126=	137=	University of Technology Sydney	Australia	73.5	76.1	82.6	51.3	55.9	72.2
+126=	178=	University of Warsaw 	Poland	79.6	65.4	61.2	44.2	68.1	72.2
+128=	128=	Universit¨¦ catholique de Louvain (UCLouvain)	Belgium	80.4	62.1	73.9	51.3	40.2	72.1
+128=	149=	University of Groningen	Netherlands	76.7	57.7	81.6	70.1	64.2	72.1
+130	124=	The Hong Kong Polytechnic University	Hong Kong SAR	80.1	82.3	77.7	-	33.3	72
+131=	124=	City University of Hong Kong	Hong Kong SAR	77.3	78.3	77.3	35	27.8	71.9
+131=	109	"University of North Carolina, Chapel Hill"	United States	77.7	60.1	80.5	73.4	34.7	71.9
+133	149=	Ghent University	Belgium	77.3	55.6	77.6	70.1	63.6	71.8
+134	143	University of Reading	United Kingdom	73.9	64.3	81.4	73.4	56	71.6
+135=	118=	Beijing Normal University 	China (Mainland)	80.9	62.8	76.8	44.2	25.7	71.5
+135=	140=	Lund University	Sweden	76.3	64.8	78.9	57.1	51.2	71.5
+135=	159=	Newcastle University	United Kingdom	72.9	70.6	81.7	66.3	50.4	71.5
+138=	157=	The University of Arizona	United States	72.9	60.7	80.9	76.5	73.9	71.4
+138=	102=	University of Virginia	United States	76.1	63.8	76.9	79.3	25.5	71.4
+138=	144	Uppsala University	Sweden	78.1	54	76.1	66.3	60.8	71.4
+141=	178=	Charles University	Czech Republic	76.6	62.7	71	44.2	82.7	71.3
+141=	131	Michigan State University	United States	72.9	65.8	83.4	73.4	51.8	71.3
+143=	98=	"Goldsmiths, University of London"	United Kingdom	80.3	59.9	78.8	62.1	9	71.2
+143=	168=	The University of Western Australia	Australia	71.1	74.9	79.4	62.1	58.4	71.2
+145=	156	Al-Farabi Kazakh National University	Kazakhstan	80.8	79.7	53.2	22.1	17.7	71
+145=	142	Universidad Nacional de Colombia	Colombia	79.6	70.1	59.7	44.2	28	71
+147=	135=	Keio University	Japan	79.9	71.9	62.2	44.2	12.7	70.9
+147=	145=	University of Liverpool	United Kingdom	71.4	72.3	78	66.3	55.9	70.9
+149	145=	University of Massachusetts Amherst	United States	76.2	60.8	83.9	57.1	45.1	70.7
+150	159=	Universidad Aut¨®noma de Madrid	Spain	75.3	76.2	67.6	44.2	35.7	70.6
+151=	168=	"University of California, Irvine"	United States	74.3	61.5	83.8	66.3	47.6	70.5
+151=	149=	University of G?ttingen	Germany	77.6	60.7	74.8	57.1	37.7	70.5
+151=	132=	University of Pittsburgh	United States	75.7	54.3	80.7	73.4	52.6	70.5
+154=	139	Universidad de los Andes	Colombia	81	69.7	62.2	35	11.7	70.4
+154=	135=	Universidade Estadual de Campinas (Unicamp)	Brazil	76.8	70.6	63.3	51.3	31.7	70.4
+154=	157=	Universit?t Hamburg	Germany	76.1	61.5	74.8	62.1	44.4	70.4
+157=	163=	Universit¨¤?di Padova	Italy	73.7	70.6	74	44.2	59.5	70.2
+157=	172	University of Hawai?i at M¨¡noa	United States	73.2	66.3	77.8	66.3	44.9	70.2
+159=	174=	University of Milan	Italy	75.5	67.1	67.6	57.1	41.2	70.1
+159=	185=	York University	Canada	75.4	60.2	78.9	66.3	37.7	70.1
+161=	154=	"University of California, Santa Barbara (UCSB)"	United States	73.7	61.4	81.7	70.1	41.4	70
+161=	145=	"University of Maryland, College Park"	United States	70.9	66.6	84.4	70.1	51.8	70
+161=	166=	University of the Arts London	United Kingdom	82	68.1	60.7	35	-	70
+164=	173	Radboud University 	Netherlands	72.4	65.9	79.2	62.1	54.6	69.9
+164=	163=	Royal Holloway University of London	United Kingdom	74.2	57.8	79.4	79.3	38.4	69.9
+166	174=	University of Cologne	Germany	77.5	54.3	75.2	51.3	59.1	69.8
+167=	190=	Arizona State University	United States	73	66.6	80	62.1	34.6	69.5
+167=	242	Chulalongkorn University	Thailand	76.1	75.5	61.7	35	29.7	69.5
+167=	182=	Universit¨¤?Cattolica del Sacro Cuore	Italy	75.4	72.7	68.9	44.2	25.4	69.5
+170=	166=	Cardiff University	United Kingdom	73.3	62.1	80.6	66.3	38.7	69.4
+170=	154=	Nanjing University	China (Mainland)	77	64.4	73.9	35	42.4	69.4
+170=	124=	Universit¨¦ Sorbonne Nouvelle Paris 3	France	83.8	52.7	56	35	34.6	69.4
+173=	245=	RUDN University	Russia	71.3	88.2	62.5	35	31.7	69.3
+173=	195=	The University of Adelaide	Australia	69.2	74.9	80.4	66.3	35.7	69.3
+175=	162	Sciences Po 	France	74.7	67.9	69.6	51.3	34.8	69.2
+175=	165	Shanghai Jiao Tong University	China (Mainland)	72.3	75.9	84	35	33.3	69.2
+175=	178=	Tongji University	China (Mainland)	79.1	62.8	74.8	35	19.4	69.2
+175=	145=	Universidade Federal do Rio de Janeiro	Brazil	77	67.7	61.9	44.2	29.7	69.2
+175=	140=	Zhejiang University	China (Mainland)	72.3	78.6	74.9	35	36.3	69.2
+180	168=	University of Alberta	Canada	70.2	68.7	77	70.1	44.6	69.1
+181	189	Osaka University	Japan	75.8	73.2	62.4	35	31.7	69
+182=	204=	National Taiwan Normal University	Taiwan	78.5	64.1	77.2	22.1	29.7	68.9
+182=	212	University of Bergen	Norway	74.7	52.4	83.2	62.1	53.7	68.9
+184	168=	Hanyang University	South Korea	76	70.5	66.5	35	29.7	68.8
+185	185=	University of Otago	New Zealand	72.4	68.6	76	62.1	24.1	68.7
+186=	98=	Renmin (People's) University of China	China (Mainland)	77	66.9	71	35	22.3	68.6
+186=	204=	Universitat Pompeu Fabra (Barcelona)	Spain	70.2	71.7	82	57.1	34.8	68.6
+188	159=	Jawaharlal Nehru University	India	84.2	55.9	56	35		68.5
+189=	227	Jagiellonian University	Poland	76.8	59.2	63.7	44.2	44.9	68.3
+189=	185=	Queensland University of Technology (QUT)	Australia	69.7	69.4	83.4	62.1	33.8	68.3
+189=	174=	University of Cape Town	South Africa	71.6	60.4	76.1	66.3	51.3	68.3
+192=	215=	Universite libre de Bruxelles	Belgium	75	61.5	73.1	51.3	31.7	68.2
+192=	245=	Ural Federal University - UrFU	Russia	73	77	55.9	44.2	30.5	68.2
+194=	195=	American University of Beirut (AUB)	Lebanon	69.3	81.4	66.6	51.3	27.6	68.1
+194=	218=	Deakin University	Australia	68.8	71.7	77.7	62.1	40.2	68.1
+194=	152=	Sungkyunkwan University(SKKU)	South Korea	74.5	73.6	73.6	35	10.1	68.1
+194=	220=	University of Bern	Switzerland	71.6	59.9	79.3	62.1	50.4	68.1
+194=	194	University of Lausanne	Switzerland	74.5	58.9	74.3	57.1	34.8	68.1
+194=	177	Vrije Universiteit Amsterdam	Netherlands	72	53.9	82.7	70.1	53.7	68.1
+200	287=	Universitas Indonesia	Indonesia	73.9	86	51.1	35		68
+201	190=	"University of California, Davis"	United States	68.9	66.7	80.8	73.4	33.3	67.9
+202=	185=	Boston College	United States	72.5	59	77.6	70.1	27.6	67.8
+202=	234=	Universit?t  Leipzig	Germany	75.6	52.6	72.4	57.1	43.9	67.8
+204	207=	University of Salamanca	Spain	74.8	61.5	71.8	44.2	35.7	67.7
+205=	213=	Ewha Womans University	South Korea	78.6	61.5	64.4	44.2		67.6
+205=	195=	Pontificia Universidad Cat¨®lica del Per¨²	Peru	79.9	62.6	55.2	22.1	27.6	67.6
+205=	192=	Pontificia Universidad Javeriana	Colombia	78.1	68	51.9	35	12.7	67.6
+208=	239	University of Southampton	United Kingdom	66.3	63.5	84.3	79.3	54.6	67.5
+208=	215=	Westf?lische Wilhelms-Universit?t M¨¹nster 	Germany	74.2	54.7	75.5	57.1	42.4	67.5
+210=	252=	Universit¨¦ de Paris	France	73	51.5	73.9	66.3	54.9	67.4
+210=	182=	University of Calgary	Canada	67.6	71.3	80.2	70.1	26.9	67.4
+210=	231=	University of Pisa	Italy	72.6	64.7	69.6	51.3	37.2	67.4
+213=	350=	Gadjah Mada University	Indonesia	74.9	83.1	45.1	22.1	12.7	67.2
+213=	192=	The Hebrew University of Jerusalem	Israel	73.7	50.8	73.3	73.4	35.8	67.2
+215	252=	University of Wollongong	Australia	65.5	69.5	81.7	70.1	49.9	67.1
+216=	228=	"Birkbeck, University of London"	United Kingdom	74.9	41.6	79.1	73.4	46.8	67
+216=	209=	George Washington University	United States	68.8	66.6	81.3	66.3	26.7	67
+216=	224=	Tecnol¨®gico de Monterrey	Mexico	74.2	76.3	50	35	17.7	67
+216=	209=	University of Navarra	Spain	69.4	76.1	66.8	51.3	25.4	67
+216=	195=	Washington University in St. Louis	United States	70.4	55.4	79.7	76.5	39.9	67
+221=	284=	The Hong Kong University of Science and Technology	Hong Kong SAR	69.9	84.7	69.4	22.1	23.1	66.9
+221=	231=	University of Florence	Italy	73.2	61.6	67.9	51.3	33.7	66.9
+223=	233	Imperial College London	United Kingdom	66.4	79.9	86.3	35	36.8	66.8
+223=	276=	Kyung Hee University	South Korea	72	64.6	71.9	51.3	28	66.8
+223=	249=	University of Antwerp	Belgium	70.5	53	77.6	76.5	47	66.8
+223=	182=	University of Sussex	United Kingdom	71.6	53.4	83.3	73.4	27.7	66.8
+227=	228=	 Western Sydney University	Australia	67.3	63.8	78.3	66.3	53.5	66.7
+227=	287=	Queen's University Belfast	United Kingdom	69.9	61	75.2	62.1	45.9	66.7
+227=	252=	University of Delhi	India	82	60.9	48.8	22.1		66.7
+227=	178=	Wuhan University	China (Mainland)	71.8	70	73.8	35	29.7	66.7
+231=	243=	Griffith University	Australia	69.1	62.6	76.9	57.1	50.5	66.6
+231=	207=	University of Minnesota Twin Cities	United States	69.2	56	79.2	66.3	60.3	66.6
+231=	314=	University of Turin	Italy	70.7	60.2	66.7	62.1	50.3	66.6
+234=	209=	Oxford Brookes University	United Kingdom	67.4	76.4	73.9	62.1	10.5	66.4
+234=	234=	Queen's University at Kingston	Canada	69.9	66.3	78.9	57.1	19.4	66.4
+236=	200=	Emory University	United States	70.8	54.8	81	66.3	36.1	66.3
+236=	224=	KAIST - Korea Advanced Institute of Science & Technology	South Korea	70.1	75.4	77.7	44.2		66.3
+236=	278=	National Chengchi University	Taiwan	74.8	66.5	64.8	35	12.7	66.3
+236=	224=	University of Basel	Switzerland	74.9	48	77	51.3	42.8	66.3
+236=	258=	University of Leicester	United Kingdom	68	59.3	79.3	70.1	49.6	66.3
+236=	220=	University of Lisbon 	Portugal	71.2	60.5	71	51.3	46.1	66.3
+242=	266=	National Tsing Hua University	Taiwan	73.9	71.1	59.2	22.1	31.7	66.2
+242=	203	Rice University	United States	71.3	58.6	79.2	66.3	16.6	66.2
+242=	220=	Simon Fraser University	Canada	70.3	59	82.1	57.1	35.5	66.2
+242=	213=	University of Ottawa	Canada	68.7	64.1	79.9	62.1	30.8	66.2
+246=	252=	Karl-Franzens-Universitaet Graz	Austria	74.2	49.9	76.2	57.1	32.2	66.1
+246=	261=	Scuola Normale Superiore di Pisa	Italy	76.8	66.3	55.2	35		66.1
+248=	218=	Sun Yat-sen University	China (Mainland)	69.4	63.1	76.9	57.1	32.1	65.9
+248=	327=	Universit¨¤ degli studi Roma Tre	Italy	75.7	53.8	64	44.2	31.7	65.9
+248=	258=	Universiti Kebangsaan Malaysia (UKM)	Malaysia	72.8	68.8	62.2	35	23.1	65.9
+248=	234=	University of Connecticut	United States	69	48	83.7	76.5	58.5	65.9
+248=	274=	University of Granada	Spain	71.9	58.4	67.9	44.2	54	65.9
+253=	311=	MGIMO University	Russia	73.5	83.3	44.8	22.1		65.8
+253=	302=	"The University of Newcastle, Australia (UON)"	Australia	66	68.8	78.3	62.1	37.7	65.8
+253=	234=	Tohoku University	Japan	71.7	70.1	60.9	44.2	17.7	65.8
+253=	291=	Universit¨¦ du Qu¨¦bec	Canada	69.4	59.8	75.9	57.1	44.5	65.8
+257=	271=	Hong Kong Baptist University	Hong Kong SAR	70.1	68.5	74.3	44.2	20.8	65.7
+257=	451-500	L.N. Gumilyov Eurasian National University (ENU)	Kazakhstan	79.7	68.5	51.5	-	5.7	65.7
+257=	314=	Universidad de Sevilla	Spain	71.2	61.9	66.1	44.2	46	65.7
+260=	200=	The American University in Cairo	Egypt	70.4	79.3	55.6	44.2		65.6
+260=	304=	Universit¨¦ de Strasbourg	France	74	57	63.4	44.2	34.6	65.6
+260=	304=	University of the Philippines	Philippines	72.5	74.6	52.8	22.1	31.7	65.6
+263=	341=	Aix-Marseille University	France	73.2	43.1	74.4	51.3	70.9	65.5
+263=	215=	Aristotle University of Thessaloniki	Greece	70.9	62.9	73	51.3	20.2	65.5
+263=	281=	La Trobe University	Australia	67.8	63.9	77.8	57.1	38.6	65.5
+263=	240=	University of Gothenburg	Sweden	71.6	48.4	79.1	66.3	39.8	65.5
+267=	299=	Rheinische Friedrich-Wilhelms-Universit?t Bonn	Germany	72.9	53	68.3	51.3	41.4	65.4
+267=	249=	Rhode Island School of Design (RISD)	United States	81.8	54.2	37.4	35		65.4
+267=	304=	University of Canterbury | Te Whare W¨¡nanga o Waitaha	New Zealand	67.9	70.2	75.1	44.2	34.2	65.4
+267=	333=	University of East Anglia (UEA)	United Kingdom	68.5	52.2	81.9	70.1	49.1	65.4
+271=	299=	Cairo University	Egypt	68.8	77	58.3	35	31.7	65.3
+271=	295	King Abdulaziz University (KAU)	Saudi Arabia	69.8	69.1	78.4	35	22.3	65.3
+271=	327=	National University of Ireland Galway	Ireland	70.4	66.5	70.6	44.2	22.3	65.3
+274=	278=	Erasmus University Rotterdam 	Netherlands	64.2	66.7	89.9	57.1	46.5	65.2
+274=	234=	Loughborough University	United Kingdom	66.7	63.1	79.4	57.1	47	65.2
+274=	220=	Texas A&M University	United States	64	67.1	77.4	66.3	51.9	65.2
+274=	281=	Universidade Nova de Lisboa	Portugal	70.2	55.4	74	62.1	36.3	65.2
+274=	304=	Universiti Sains Malaysia (USM)	Malaysia	70.8	69.7	72	22.1	34.6	65.2
+274=	278=	University of Aberdeen	United Kingdom	68.1	58.9	76.5	70.1	31.4	65.2
+280=	291=	National and Kapodistrian University of Athens	Greece	68	62.7	70.8	51.3	52.4	65.1
+280=	240=	Purdue University	United States	65.3	63.9	81.2	66.3	40.6	65.1
+280=	195=	University of Kent	United Kingdom	70.1	52.6	77.5	70.1	28.5	65.1
+283=	337	Bo?azi?i University	Turkey	68.2	67.9	67.1	51.3	31.7	65
+283=	200=	Concordia University	Canada	71.5	55.7	76.7	51.3	26.3	65
+283=	249=	HUFS - Hankuk (Korea) University of Foreign Studies 	South Korea	73.4	65.5	60.9	35	12.7	65
+283=	204=	University of Illinois at Chicago (UIC)	United States	68	60.7	80.7	57.1	34.3	65
+283=	252=	University of Rochester	United States	67.5	59.8	84.9	62.1	29.7	65
+288=	261=	University College Cork	Ireland	68.7	65.8	73.8	57.1	14.9	64.9
+288=	245=	Western University	Canada	66.3	63.5	79.6	66.3	30.2	64.9
+290=	296=	National Cheng Kung University (NCKU)	Taiwan	73	71	68.5	22.1		64.8
+290=	276=	Tomsk State University	Russia	70.9	73.7	62.4	22.1	23.7	64.8
+290=	245=	Universit?t Konstanz	Germany	73.1	40.7	75.8	57.1	57	64.8
+290=	274=	University of Florida	United States	65.9	61.1	79.7	57.1	55.7	64.8
+294=	310	University of Naples - Federico II	Italy	69.4	63.9	67.3	44.2	38.1	64.7
+294=	284=	University of Porto	Portugal	68.9	57.9	74.3	57.1	37.7	64.7
+296	287=	"University of California, Santa Cruz"	United States	70.9	46.8	81.5	62.1	37.8	64.6
+297=		Abai Kazakh National Pedagogical University	Kazakhstan	81	62.9	44.9	-		64.5
+297=	320=	Curtin University	Australia	63.7	68.3	81.2	62.1	37.7	64.5
+299=	343=	"Lingnan University, Hong Kong"	Hong Kong SAR	68.1	65.2	67.4	51.3	31.7	64.4
+299=	343=	Universiti Putra Malaysia (UPM)	Malaysia	68.8	70.5	67	35	27.6	64.4
+301=	299=	Technische Universit?t Berlin (TU Berlin)	Germany	67.1	66.1	71.8	57.1	23.1	64.3
+301=	319	Universit¨¦ Paris-Nanterre	France	76	39.7	64.2	51.3	42.4	64.3
+303=	243=	University of Iowa	United States	69.1	48.8	79.8	70.1	33.8	64.2
+303=	271=	University of Witwatersrand	South Africa	66.8	55.6	77.1	62.1	50.2	64.2
+305=	252=	University of Oregon	United States	65.9	57.5	80.7	66.3	37.7	64
+305=	314=	University of Turku	Finland	68.5	49.3	81.1	57.1	53	64
+307=	261=	Universidad de Santiago de Chile (USACH)	Chile	70.6	66.3	55.5	44.2	15.7	63.9
+307=	302=	University of Colorado Boulder	United States	65.1	54.9	81.4	70.1	49.8	63.9
+307=	261=	University of Waterloo	Canada	61.9	70.4	82.6	66.3	29.7	63.9
+310=	293=	Tel Aviv University	Israel	70.2	48.8	74.7	62.1	33.5	63.8
+310=	365=	Universit¨¦ Grenoble Alpes	France	69.1	58.3	75.6	44.2	34.6	63.8
+310=	287=	University of Tartu	Estonia	69.6	55.3	64.1	51.3	47.3	63.8
+313=	269=	California Institute of Technology (Caltech)	United States	64.9	77.3	72.1	51.3		63.7
+313=	266=	Dartmouth College	United States	65.8	63.6	77.2	62.1	21.2	63.7
+313=	271=	Georgia Institute of Technology	United States	65.3	67.3	86.2	44.2	26.4	63.7
+316=	304=	Eindhoven University of Technology	Netherlands	63.6	66.3	77.2	62.1	33.8	63.6
+316=	228=	Syracuse University	United States	66.5	57.5	78.3	66.3	27.6	63.6
+316=	369=	Universitat de Valencia	Spain	66.3	60.9	69.4	51.3	51	63.6
+319=	314=	East China Normal University	China (Mainland)	71.3	49.1	66.4	51.3	42.1	63.5
+319=	296=	Vanderbilt University	United States	67.8	50.7	78.4	70.1	30.9	63.5
+321=	281=	McMaster University	Canada	64.5	62.1	76	66.3	32.7	63.4
+321=	400=	Universit¨¦ Lumi¨¨re Lyon 2	France	75.1	44	66.1	35	39.5	63.4
+323=	361=	"Adam Mickiewicz University, Pozna¨½"	Poland	68.7	49.2	65.2	57.1	61	63.3
+323=	451-500	De La Salle University	Philippines	68.5	72.2	47.8	35	31.7	63.3
+323=	265	Florida State University	United States	64.3	60.8	79.9	66.3	32.6	63.3
+326	451-500	Swansea University	United Kingdom	66.4	58.8	77.4	57.1	30.5	63.2
+327=	451-500	Ateneo de Manila University	Philippines	70.4	73.6	40.2	22.1	29.7	63.1
+327=	304=	UNESP	Brazil	67.5	68.8	55.8	44.2	27.6	63.1
+329	327=	University of Victoria (UVic)	Canada	67.1	51.9	79	62.1	33.3	62.9
+330=	269=	Fordham University 	United States	67.3	56.5	78.8	70.1		62.8
+330=	343=	Kazan (Volga region) Federal University	Russia	68	67.9	67.3	22.1	33.7	62.8
+330=	365=	University of South Australia	Australia	63.3	65.9	80.4	51.3	35.7	62.8
+333=	258=	"Essex, University of"	United Kingdom	66.2	55.1	79.5	62.1	27.6	62.7
+333=	401-450	Indian Institute of Technology Bombay (IITB)	India	68.9	66.5	65.1	22.1	29.7	62.7
+333=	451-500	Politecnico di Torino	Italy	65.4	75.3	68.6	22.1	31.7	62.7
+333=	311=	University of Coimbra	Portugal	69.3	52.3	74.1	51.3	25	62.7
+333=	338=	University of Southern Denmark (SDU)	Denmark	64.1	58.8	78.5	57.1	47	62.7
+338=	391=	Dublin City University	Ireland	63.7	64.1	79	51.3	36.1	62.6
+338=	320=	Stellenbosch University	South Africa	63.6	54.5	70.9	66.3	64.7	62.6
+338=	296=	Universidad de Antioquia	Colombia	71.6	60.1	57.9	35	12.7	62.6
+338=	353=	Universitat Polit¨¨cnica de Catalunya ¡¤ BarcelonaTech (UPC)	Spain	67.1	68.3	74.6	22.1	28	62.6
+342=	401-450	Istanbul University	Turkey	67.8	67.9	59.9	35	22.2	62.5
+342=	365=	Johannes Gutenberg Universit?t Mainz	Germany	70.1	45.1	75.2	44.2	49.1	62.5
+342=	350=	"Kingston University, London"	United Kingdom	65.8	64.6	67.6	57.1	14.9	62.5
+342=	356=	Nagoya University	Japan	70.1	63.2	72.8	22.1	12.7	62.5
+342=	293=	Sogang University	South Korea	72.4	60.8	57	35		62.5
+342=	314=	University of Ljubljana	Slovenia	67.4	52.6	66.1	62.1	37.7	62.5
+348	391=	Massey University	New Zealand	67.2	62.2	73.6	44.2	15.7	62.4
+349=	341=	European University Institute	Italy	67.9	50.5	69.8	62.1	31.7	62.3
+349=	378=	"University of Rome ""Tor Vergata"""	Italy	68.3	63	59.6	44.2	18.3	62.3
+351=	451-500	?cole Normale Sup¨¦rieure de Lyon	France	71.8	55.1	63.3	44.2		62.2
+351=	377	E?tv?s Lor¨¢nd University	Hungary	69.4	51.6	66.4	44.2	39.5	62.2
+351=	353=	Tufts University	United States	65.8	48.2	82.4	66.3	37.7	62.2
+351=	266=	Universidad Nacional de La Plata (UNLP)	Argentina	71.7	59.7	60.9	35		62.2
+351=	356=	Universit¨¦ Laval	Canada	64.6	58.8	77.5	51.3	41.3	62.2
+356=	356=	Masaryk University	Czech Republic	67.1	56.8	71.8	44.2	36.1	62.1
+356=	311=	Ritsumeikan University	Japan	66.2	71.3	73.5	35		62.1
+356=	361=	Tokyo Institute of Technology (Tokyo Tech)	Japan	65.8	78.5	57.9	35		62.1
+356=	401-450	University of Limerick	Ireland	64.6	63.5	74	51.3	25.4	62.1
+360=	333=	Nottingham Trent University	United Kingdom	62.2	66.3	79.4	51.3	31.5	62
+360=	369=	Sophia University 	Japan	75.2	59.9	43.5	22.1		62
+362		Khoja Akhmet Yassawi International Kazakh-Turkish University	Kazakhstan	73.8	66.9	34.5	22.1		61.9
+363=	451-500	European University at St. Petersburg	Russia	72.6	58.4	44.1	22.1	31.7	61.8
+363=	284=	Pontif¨ªcia Universidade Cat¨®lica do Rio de Janeiro	Brazil	70.2	61.2	48.1	51.3		61.8
+363=		Taylor's University	Malaysia	68.9	76	48.8		31.7	61.8
+366=	401-450	Beijing Foreign Studies University	China (Mainland)	74.8	49.7	47.9	22.1	31.7	61.7
+366=	385=	"City, University of London"	United Kingdom	62.5	62.8	87.3	51.3	25.6	61.7
+366=	322=	University of Bath	United Kingdom	63	68.3	80.6	44.2	16.9	61.7
+366=	373=	University of Kansas	United States	64.2	58.2	81	51.3	31.7	61.7
+370=	397=	Auckland University of Technology (AUT)	New Zealand	63.2	65	74.8	51.3	23.7	61.6
+370=	401-450	Mahidol University	Thailand	67.1	73.4	52.1	22.1	22.2	61.6
+370=	331=	University of Manitoba	Canada	61.9	64.8	74.4	57.1	32.2	61.6
+370=	338=	Washington State University	United States	63.3	62.6	81.3	51.3	22.2	61.6
+374=	325=	Kyushu University	Japan	70.8	66.4	54	22.1		61.5
+374=	361=	Pontificia Universidad Cat¨®lica de Valpara¨ªso	Chile	68.5	56.5	58.5	44.2	27.6	61.5
+374=	343=	Universidad Iberoamericana IBERO	Mexico	72.8	65.9	40.1	22.1		61.5
+374=	380=	Universidade de Santiago de Compostela	Spain	67.9	55.6	63.6	44.2	31.7	61.5
+378=		Bandung Institute of Technology (ITB)	Indonesia	68.7	85.2	41.8	-		61.4
+378=	327=	Georgia State University	United States	61.6	59	81.3	66.3	31.7	61.4
+378=		University of Dhaka	Bangladesh	65.5	86	44.7	-	31.7	61.4
+378=	325=	University of Miami	United States	60	60.2	81.2	73.4	34.3	61.4
+382	333=	Swinburne University of Technology	Australia	63.7	60.2	74.5	51.3	31.7	61.3
+383=	385=	Colegio de M¨¦xico	Mexico	76.3	48.1	41.8	35		61.2
+383=	383	Ruhr-Universit?t Bochum	Germany	67.7	43.1	74.7	51.3	50.9	61.2
+383=		Universiti Teknologi Malaysia 	Malaysia	64.8	70.5	73	22.1	22.2	61.2
+383=	401-450	University of Huddersfield	United Kingdom	64.7	59	76.3	51.3	21	61.2
+383=	401-450	University of Waikato	New Zealand	62.6	59	74.1	57.1	39.3	61.2
+388=		"Sofia University ""St. Kliment Ohridski"""	Bulgaria	66.5	72	47.3	22.1	31.7	61.1
+388=	401-450	Universit¨¦ de Toulouse II-Le Mirail	France	71.2	42.6	64.3	35	47.7	61.1
+388=	322=	University at Buffalo SUNY	United States	66.5	47.4	79.5	62.1	21.2	61.1
+388=	355	University of Surrey	United Kingdom	61.3	60.2	81.2	62.1	30.2	61.1
+388=	385=	Vrije Universiteit Brussel (VUB)	Belgium	64.7	50.7	78	51.3	49.1	61.1
+393=	356=	KTH Royal Institute of Technology 	Sweden	63.3	57.8	72.9	57.1	34.8	61
+393=	393=	Universidad Carlos III de Madrid (UC3M)	Spain	63.2	70.5	64.7	35	29.7	61
+395=	343=	Russian State University for the Humanities 	Russia	70.7	60.9	48.6	35		60.9
+395=	378=	Tilburg University	Netherlands	60.7	54.6	82.9	62.1	53.5	60.9
+395=	343=	Universidad Diego Portales (UDP)	Chile	67.3	57.9	63.7	35	31.7	60.9
+395=	331=	Universidade Federal do Rio Grande Do Sul 	Brazil	70	47.7	64.2	44.2	25.4	60.9
+395=	401-450	Universit?t Innsbruck	Austria	66.6	49.9	71.1	51.3	34.7	60.9
+395=		Universit¨¦ Paris-Saclay	France	59.3	66.2	83.7	51.3	39.5	60.9
+401-450	401-450	Aalborg University	Denmark	62.8	61.5	76	44.2	36.5	
+401-450		Airlangga University	Indonesia	64.6	82.7	40.5	22.1		
+401-450	373=	Bilkent University	Turkey	63	64.1	67.8	57.1		
+401-450		Chiang Mai University	Thailand	67.6	65.9	44.9	22.1	31.7	
+401-450	401-450	Christian-Albrechts-University zu Kiel	Germany	66.2	52.4	78.3	22.1	38.7	
+401-450	393=	Dalhousie University	Canada	62	56.7	77.4	51.3	37.7	
+401-450	401-450	Hitotsubashi University	Japan	70	64.9	40.4	-	22.2	
+401-450	380=	Hokkaido University	Japan	66.9	65.8	55	22.1	31.7	
+401-450	401-450	Hongik University 	South Korea	69.2	52.8	50.4	22.1	31.7	
+401-450	451-500	Indian Institute of Technology Delhi (IITD)	India	68	65.7	55.4	-	31.7	
+401-450	401-450	International Islamic University Malaysia (IIUM)	Malaysia	67.1	64.3	57.7	35	12.7	
+401-450	401-450	Jadavpur University	India	72.5	42.9	48.6	44.2	31.7	
+401-450	451-500	King Saud University	Saudi Arabia	63.6	60	72.1	44.2	32.7	
+401-450		Lahore University of Management Sciences (LUMS)	Pakistan	65.7	73.2	48.5	35		
+401-450	365=	Maastricht University 	Netherlands	60.3	63.2	83.5	57.1	27.3	
+401-450	451-500	Manchester Metropolitan University (MMU)	United Kingdom	61.4	60.1	75.3	62.1	1.3	
+401-450	400=	Middle East Technical University	Turkey	63.9	68.4	73.2	35	12.7	
+401-450	369=	National Sun Yat-sen University	Taiwan	67.7	61.7	61.1	22.1		
+401-450		National Yang Ming Chiao Tung University	Taiwan	66.9	67.9	66.1	22.1		
+401-450	401-450	Northumbria University at Newcastle	United Kingdom	60.7	61.3	77.3	51.3	24.7	
+401-450	451-500	Norwegian University of Science And Technology	Norway	62.7	51	76.4	44.2	44.4	
+401-450	401-450	Novosibirsk State University	Russia	64.9	71.5	52.7	22.1	26.4	
+401-450	401-450	Pratt Institute	United States	75.1	48.3	36.7	22.1		
+401-450	451-500	Ryerson University	Canada	61.8	60.2	73.9	51.3	29.7	
+401-450	401-450	Shandong University	China (Mainland)	64.9	63.2	60.4	22.1	31.7	
+401-450	373=	Tampere University	Finland	63.1	48.5	84	62.1	36.1	
+401-450	380=	Temple University	United States	63.9	49	78.5	57.1	38.1	
+401-450		Thammasat University	Thailand	67.8	68	43	-	31.7	
+401-450	322=	The University of Georgia	United States	61.5	55.5	81	62.1	34	
+401-450	333=	Umea University	Sweden	66.8	39.5	76.4	66.3	32.6	
+401-450	338=	Universidad Aut¨®noma Metropolitana (UAM)	Mexico	70.5	59.9	44.1	35		
+401-450	384	Universidad de la Rep¨²blica (Udelar)	Uruguay	66.8	66.6	50.4	35	12.7	
+401-450	361=	Universidad Nacional de C¨®rdoba - UNC	Argentina	66.9	56.8	58.2	35	31.7	
+401-450	397=	Universidade de Bras¨ªlia	Brazil	65.5	56.2	60.1	35	29.7	
+401-450	343=	Universidade Federal de Minas Gerais      	Brazil	68.5	53.2	60.4	35	34.3	
+401-450	400=	Universidade Federal de Santa Catarina 	Brazil	64.9	53.6	61.7	44.2	29.7	
+401-450	385=	Universit¨¤ degli Studi di Pavia	Italy	66.9	51.6	68.4	57.1	19	
+401-450	393=	Universit?t Jena	Germany	65.8	51	72.1	51.3	37.7	
+401-450	401-450	Universit?t Potsdam	Germany	64.2	39.1	82.2	57.1	50.7	
+401-450	400=	Universit¨¦ de Li¨¨ge	Belgium	65.1	55.4	74.8	44.2	32.1	
+401-450	451-500	University of Belgrade	Serbia	65.4	49.9	70	35	55.9	
+401-450		"University of California, Riverside"	United States	62.4	52.1	75.3	70.1	30.5	
+401-450	373=	University of Cincinnati	United States	62.2	47.9	79.5	62.1	50.8	
+401-450	401-450	University of Genoa	Italy	62.6	53.6	71.7	57.1	36.1	
+401-450	369=	University of Jordan	Jordan	63.5	75.6	55.8	22.1	31.7	
+401-450	401-450	University of Jyv?skyl?	Finland	62.8	48.7	79.7	62.1	40.2	
+401-450	401-450	"University of Missouri, Columbia"	United States	62.6	51.8	83.8	57.1	38.5	
+401-450	397=	University of Pretoria	South Africa	60	59.2	70.4	70.1	44.1	
+401-450	401-450	University of Strathclyde	United Kingdom	59.6	59.3	78.6	62.1	30.1	
+401-450	401-450	University of Tasmania	Australia	59.4	62.2	75.5	57.1	22.3	
+401-450	356=	University of Trento	Italy	64.2	57.8	79.6	35	41.7	
+401-450	401-450	University of Tsukuba	Japan	68.9	55.9	57.1	22.1	31.7	
+401-450	401-450	Vilnius University 	Lithuania	65.2	62.7	61.2	35	26.4	
+401-450	401-450	Virginia Polytechnic Institute and State University	United States	60.3	56.4	80.1	57.1	31.7	
+451-500	401-450	American University	United States	61.9	68.1	66.1	44.2		
+451-500		Ankara ?niversitesi	Turkey	64.2	58	57	22.1	31.7	
+451-500		Australian Catholic University	Australia	60.5	52.7	76.8	62.1	35.7	
+451-500	401-450	Babes-Bolyai University	Romania	63.3	60.3	61.5	35	29.7	
+451-500	401-450	Carleton University	Canada	59.3	53.5	77	62.1	19.4	
+451-500	451-500	Chalmers University of Technology	Sweden	59.8	58.1	63.6	57.1	41.1	
+451-500	385=	College of William and Mary	United States	61.7	50.8	71	62.1	31.7	
+451-500	451-500	Florida International University	United States	56.6	62	76.6	51.3	37.8	
+451-500		Gazi ?niversitesi	Turkey	67.3	51.5	63.7	22.1	29.7	
+451-500	401-450	Illinois Institute of Technology	United States	67.7	50.9	62.6	44.2		
+451-500	451-500	Justus-Liebig-University Giessen	Germany	62.6	46.6	73.9	51.3	38.7	
+451-500	451-500	Kobe University	Japan	65.8	61.8	52.4	35		
+451-500	451-500	Ko? University	Turkey	62.2	64	65.8	35	10.1	
+451-500	401-450	Loyola University Chicago	United States	60.6	58.2	69.9	57.1		
+451-500		Martin-Luther-Universit?t Halle-Wittenberg	Germany	66	57.1	53.7	35		
+451-500		Moscow Pedagogical State University	Russia	69.9	53.3	39	35		
+451-500	451-500	Nankai University	China (Mainland)	69.8	45.9	58.7	22.1	31.7	
+451-500	401-450	Northeastern University	United States	58.6	59.8	81.1	57.1	18.3	
+451-500	401-450	Paul Val¨¦ry University Montpellier	France	68.8	35.6	58.2	44.2	27.6	
+451-500	451-500	Shanghai University	China (Mainland)	64.8	59.3	55.6	35		
+451-500	451-500	Sichuan University	China (Mainland)	67.2	48	63.8	22.1	27.6	
+451-500	401-450	"Stony Brook University, State University of New York"	United States	63.1	45.4	79.2	51.3	33.8	
+451-500		Taras Shevchenko National University of Kyiv	Ukraine	63.9	77.2	29.9	22.1		
+451-500	401-450	The Open University	United Kingdom	59.2	51.1	81.6	66.3	22.1	
+451-500		Universidad Adolfo Ib¨¢?ez	Chile	63.9	63.2	43.3	35	18.3	
+451-500	451-500	Universidad Alberto Hurtado	Chile	64.5	49.8	55.9	44.2	29.7	
+451-500	401-450	Universidad de Alcal¨¢	Spain	63.8	55.2	64.1	35	31.7	
+451-500	451-500	Universidad de Concepci¨®n	Chile	62.7	58.9	54.7	44.2	17.7	
+451-500	401-450	Universidad de Guadalajara (UDG)	Mexico	69.3	55.9	43.7	22.1		
+451-500	451-500	Universidad de Zaragoza	Spain	65	44.9	67.2	44.2	34.3	
+451-500	451-500	Universidade Cat¨®lica Portuguesa - UCP	Portugal	62.6	52.2	59.6	57.1	31.7	
+451-500		Universit¨¦ Jean Moulin Lyon 3	France	66.7	60.5	50.1	35		
+451-500		Universiti Teknologi MARA - UiTM	Malaysia	65.2	67.4	57.2	-	17.7	
+451-500		University of Alicante	Spain	60.4	59.3	63.6	35	44.4	
+451-500	451-500	University of Brighton	United Kingdom	62.1	53.2	70.7	51.3	17.5	
+451-500	401-450	University of Bucharest	Romania	64.7	62.4	58	44.2		
+451-500	451-500	University of Haifa	Israel	60.6	50.5	73.5	62.1	22.5	
+451-500	451-500	University of Johannesburg	South Africa	59	53	71.1	62.1	48.9	
+451-500	451-500	University of Siena	Italy	65.2	47.3	69.8	35	26.7	
+451-500	393=	University of South Carolina	United States	59.8	54.8	78.5	62.1	29.7	
+451-500		University of South Florida	United States	56.4	59.1	78.2	62.1	33.8	
+451-500	401-450	University of Stirling	United Kingdom	58.7	53	81.5	62.1	34.2	
+451-500	451-500	University of Troms? The Arctic University of Norway	Norway	65.2	36.1	74.6	51.3	42.3	
+451-500	385=	University of Westminster	United Kingdom	61.8	59.9	71.3	51.3	6.3	
+451-500		University of Zagreb	Croatia	62.7	52.8	59.7	44.2	46.9	
+451-500	401-450	Xiamen University	China (Mainland)	65.5	55.1	69.5	22.1	32.2	

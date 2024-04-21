@@ -1,0 +1,50 @@
+.Section3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 700px;
+    background: rgb(43, 43, 43);
+    color: #F2F2EE;
+}
+
+.Section3-sunburst {
+    float: left;
+    margin-left: 10%;
+}
+
+.Section3-title {
+    width: 40%;
+    height: 520px;
+    margin-left: 53%;
+    padding-top: 90px;
+}
+
+.Section3-title > h1,
+.Section3-title > h2,
+.Section3-title > h3,
+.Section3-title > h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.Section3-title > h1 {
+    font-size: 50px;
+}
+
+.Section3-title > #line2 {
+    font-size: 40px;
+}
+
+.Section3-title > h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.Section3-title > h3 {
+    font-size: 16px;
+}
+
+.Section3-title > h4 {
+    font-size: 14px;
+    color: #b2b2af;
+    margin-top: 10px;
+}

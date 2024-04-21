@@ -1,0 +1,48 @@
+.Section7 {
+    height: 750px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Section7 > svg {
+    width: 45%;
+}
+
+.Section7-title {
+    text-align: right;
+    margin-left: 5%;
+}
+
+.Section7-title > h1,
+.Section7-title > h2,
+.Section7-title > h3,
+.Section7-title > h4,
+.Section7-title > p {
+    margin: 0;
+    padding: 0;
+}
+
+.Section7-title > h1 {
+    font-size: 50px;
+}
+
+.Section7-title > h2 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.Section7-title > h3 {
+    font-size: 16px;
+}
+
+.Section7-title > h4 {
+    font-size: 14px;
+    color: #595959;
+    margin-top: 10px;
+}
+
+.Section7-title > p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}

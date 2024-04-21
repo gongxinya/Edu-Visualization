@@ -1,0 +1,80 @@
+.Section5 {
+}
+
+.Section5 > .Section5-subsection {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.Section5 > .Section5-subsection > .Section5-subsection-chart > p {
+    text-align: center;
+    margin: 0;
+    padding: 0 0 0 20px;
+    font-size: 13px;
+}
+
+.Section5 > .Section5-subsection > .Section5-subsection-title > h1,
+.Section5 > .Section5-subsection > .Section5-subsection-title > h2,
+.Section5 > .Section5-subsection > .Section5-subsection-title > h3,
+.Section5 > .Section5-subsection > .Section5-subsection-title > p {
+    margin: 0;
+    padding: 0;
+}
+
+.Section5 > .Section5-subsection > .Section5-subsection-title > p {
+    margin-top: 10px;
+}
+
+.Section5 > .Section5-subsection > .Section5-subsection-title > h3 {
+    float: left;
+    margin: 10px 30px 0 0;
+    border-radius: 10px;
+    padding: 2px 10px;
+    font-size: 15px;
+}
+
+.Section5 > #Section5-subsection1,
+.Section5 > #Section5-subsection3 {
+    background: #F2F2EE;
+}
+
+.Section5 > #Section5-subsection2 {
+    background: rgb(43, 43, 43);
+    color: #F2F2EE;
+}
+
+.Section5 > #Section5-subsection1 > .Section5-subsection-title {
+    float: left;
+    margin-top: 25px;
+    margin-left: 10%;
+}
+
+.Section5 > #Section5-subsection2 > .Section5-subsection-title {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 50%;
+}
+
+.Section5 > #Section5-subsection3 > .Section5-subsection-title {
+    float: left;
+    margin-top: 20px;
+    margin-left: 10%;
+    width: 40%;
+}
+
+.Section5 > .Section5-subsection > #Section5-Chart1 {
+    width: 690px;
+    margin-left: 56%;
+}
+
+.Section5 > .Section5-subsection > #Section5-Chart2 {
+    float: left;
+    margin-top: 12px;
+    margin-left: 10%;
+    width: 700px;
+}
+
+.Section5 > .Section5-subsection > #Section5-Chart3 {
+    width: 690px;
+    margin-left: 56%;
+}

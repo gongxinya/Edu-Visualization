@@ -1,0 +1,22 @@
+.App {
+}
+
+.Questions {
+    margin: 0;
+    padding: 10px 0 3px 0;
+    text-align: center;
+    font-size: 13px;
+}
+
+.Questions-dark {
+    background: rgb(43, 43, 43);
+    color: #F2F2EE;
+}
+
+a {
+    margin: 0 2px;
+    padding: 1px;
+    border-radius: 4px;
+    background: #F2F2EE;
+    font-size: 16px;
+}

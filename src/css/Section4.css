@@ -1,0 +1,60 @@
+.Section4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 600px;
+    background: rgb(43, 43, 43);
+    color: #F2F2EE;
+}
+
+.Section4 > .Section4-Heatmap {
+    float: left;
+    margin-top: 70px;
+    margin-left: 12%;
+}
+
+.Section4 > .tooltip {
+    position: fixed;
+    background: rgb(43, 43, 43);
+    border-radius: 5px;
+    border: 1px solid #F2F2EE;
+    padding: 5px;
+    opacity: 0;
+}
+
+.Section4-title {
+    width: 40%;
+    height: 520px;
+    margin-left: 55%;
+    padding-top: 90px;
+}
+
+.Section4-title > h1,
+.Section4-title > h2,
+.Section4-title > h3,
+.Section4-title > h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.Section4-title > h1 {
+    font-size: 40px;
+}
+
+.Section4-title > #line2 {
+    font-size: 50px;
+}
+
+.Section4-title > h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.Section4-title > h3 {
+    font-size: 16px;
+}
+
+.Section4-title > h4 {
+    font-size: 14px;
+    color: #b2b2af;
+    margin-top: 10px;
+}

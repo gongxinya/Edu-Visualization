@@ -1,0 +1,54 @@
+.Section8 {
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Section8 > .Section8-svg {
+    width: 700px;
+    height: 800px;
+    margin-right: 5%;
+}
+
+.Section8-title {
+    text-align: right;
+    margin-left: 6%;
+}
+
+.Section8-title > .ColorBar {
+}
+
+.Section8-title > h1,
+.Section8-title > h2,
+.Section8-title > h3,
+.Section8-title > h4,
+.Section8-title > p {
+    margin: 0;
+    padding: 0;
+}
+
+.Section8-title > h1 {
+    font-size: 50px;
+}
+
+.Section8-title > h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.Section8-title > h3 {
+    font-size: 16px;
+}
+
+.Section8-title > h4 {
+    font-size: 14px;
+    color: #595959;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.Section8-title > p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}

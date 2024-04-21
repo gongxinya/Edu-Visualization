@@ -1,0 +1,76 @@
+.Section6 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 700px;
+    background: rgb(43, 43, 43);
+    color: #F2F2EE;
+}
+
+.Section6 > svg {
+    margin-left: 12%;
+    margin-top: 20px;
+    float: left;
+}
+
+.Section6-title {
+    width: 40%;
+    height: 520px;
+    margin-left: 55%;
+    padding-top: 90px;
+}
+
+.Section6-title > h1,
+.Section6-title > h2,
+.Section6-title > h3,
+.Section6-title > h4 {
+    padding: 0;
+    margin: 0;
+}
+
+.Section6-title > h1 {
+    font-size: 50px;
+}
+
+.Section6-title > h2 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.Section6-title > h3 {
+    font-size: 16px;
+}
+
+.Section6-title > h4 {
+    font-size: 14px;
+    color: #b2b2af;
+    margin-top: 10px;
+}
+
+.Section6-title > #Section6-slider {
+    margin-top: 30px;
+    width: 460px;
+    border-radius: 10px;
+    background: #F2F2EE;
+}
+
+.Section6-title > #Section6-slider > svg > g > g > g > text {
+    font-size: 12px;
+    fill: rgb(43, 43, 43);
+}
+
+.Section6-title > #Section6-slider-button {
+    border: none;
+    border-radius: 10px;
+    width: 460px;
+    background: rgb(98, 98, 98);
+    color: #F2F2EE;
+    margin-top: 10px;
+    padding: 6px 0;
+    transition: background-color 0.3s;
+}
+
+.Section6-title > #Section6-slider-button:hover {
+    background: #F2F2EE;
+    color: rgb(43, 43, 43);
+    cursor: pointer;
+}

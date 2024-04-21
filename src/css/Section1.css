@@ -1,0 +1,67 @@
+.Section1 > #Section1-Earth {
+    margin-left: 35%;
+    width: 65%;
+    height: 700px;
+}
+
+.Section1-title {
+    position: absolute;
+    width: 44%;
+    height: 700px;
+    padding-top: 70px;
+}
+
+.Section1-title > h1,
+.Section1-title > h2,
+.Section1-title > h3,
+.Section1-title > h4,
+.Section1-title > p,
+.Section1-title > div {
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+.Section1-title > h1 {
+    font-size: 50px;
+}
+
+.Section1-title > h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.Section1-title > h3 {
+    font-size: 16px;
+}
+
+.Section1-title-interactive > h4 {
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+.Section1-title-interactive-checkbox > div {
+    position: relative;
+    margin-right: 20px;
+    font-size: 14px;
+    z-index: 999;
+}
+
+.Section1-title-interactive-checkbox > div > label > input {
+    accent-color: rgb(255, 120, 120);
+}
+
+.Section1-title-colorbar > .ColorBar {
+    float: right;
+    margin-top: 10px;
+}
+
+.Section1-title-colorbar > p {
+    text-align: center;
+    float: right;
+    height: 20px;
+    margin: 10px 15px 0 5px;
+    padding: 0 5px 0 5px;
+    font-size: 14px;
+}
