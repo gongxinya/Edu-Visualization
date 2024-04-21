@@ -2,7 +2,6 @@
   "name": "cs5044_a2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tz36.host.cs.st-andrews.ac.uk/CS5044_A2/",
   "dependencies": {
     "@react-three/drei": "^9.57.3",
     "@react-three/fiber": "^8.12.0",
